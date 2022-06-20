@@ -1,0 +1,106 @@
+body a{
+	text-decoration:  none;
+	color: black;
+}
+.header_main{
+  display:  flex;
+  justify-content: space-between;
+}
+
+.header_meun li{
+	list-style: none;
+	font-family: 'Ubuntu', sans-serif;
+}
+.header_search{
+  padding: 10px;
+}
+.header_title{
+	text-align: center;
+	
+}
+.header_textbox{
+	border: none;
+	width: 100px;
+	height: 18px;
+	font-size: 10px;
+	font-family: 'Ubuntu', sans-serif;
+}
+.header_search a {
+	text-decoration: none;	
+	font-size: 12px;
+	font-family: 'Ubuntu', sans-serif;
+}
+.footer_text {
+	text-align: center;
+	font-size: 10px;
+}
+.item_controll01{
+	display: flex;
+	justify-content: space-between;
+}
+.item_content{
+	padding: 20px;
+}
+.item_info{
+	text-align: center;
+	font-size: 12px;
+}
+.image_info{
+	width: 100%;
+}
+.product {
+	display: flex;	
+}
+.product_list{
+	width: 70%;
+	height: 50%;
+}
+.product_text1{
+
+	padding-bottom: 70px;
+}
+.product_contants{
+	
+}
+.product_page_number{
+	display: flex;
+	justify-content: center;
+}
+
+.cart{
+	padding: 200px;
+	text-align: center;
+
+}
+.cart_table{
+	width: 1000px;
+	border-top: solid 1px;
+	border-bottom: solid 1px;
+}
+.cart_button{
+	text-align: end;
+	padding-right: 100px;
+	padding-bottom: 100px;
+}
+.text_customer {
+	padding: 100px;
+}
+.text_shipping {
+	padding: 100px;
+}
+.coupon{
+	padding: 100px;
+}
+.payMent{
+	padding: 100px;
+}
+.total_cost{
+	padding-bottom: 50px;
+}
+.select_na{
+	width: 200px;
+	padding-bottom: 50px;
+}
+.file_upload{
+	width: 500px;
+}
